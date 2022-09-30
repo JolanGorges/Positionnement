@@ -1,0 +1,16 @@
+#relative-1 {
+  position: relative;
+  padding: 10%;
+}
+
+#relative-2 {
+  position: relative;
+  padding: 10%;
+  left: 25%;
+}
+
+#relative-3 {
+  position: relative;
+  padding: 10%;
+  right: 90%;
+}
