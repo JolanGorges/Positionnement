@@ -1,0 +1,10 @@
+.no-position {
+  padding: 8%;
+}
+
+#absolute {
+  position: absolute;
+  padding: 5%;
+  top: 55%;
+  left: 30%;
+}
