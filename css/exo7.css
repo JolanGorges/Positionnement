@@ -1,0 +1,21 @@
+#container {
+  padding: 0 15%;
+}
+
+.left-box {
+  float: left;
+  width: 15vw;
+  height: 15vw;
+}
+
+#middle-box {
+  float: left;
+  width: 100%;
+  height: 15vw;
+}
+
+.right-box {
+  float: right;
+  width: 15vw;
+  height: 15vw;
+}
