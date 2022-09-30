@@ -1,0 +1,27 @@
+#absolute-1 {
+  position: absolute;
+  width: 100%;
+  padding: 5%;
+}
+
+#absolute-2 {
+  position: absolute;
+  padding: 10%;
+  top: 35%;
+  left: 40%;
+}
+
+#absolute-3 {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50%;
+  height: 50%;
+}
+
+#absolute-4 {
+  position: absolute;
+  padding: 5%;
+  top: 75%;
+  left: 65%;
+}
