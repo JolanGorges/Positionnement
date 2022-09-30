@@ -1,0 +1,44 @@
+#absolute-1 {
+  position: absolute;
+  width: 30vw;
+  height: 30vw;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+#absolute-2 {
+  position: absolute;
+  top: 8%;
+  left: 8%;
+  width: 38%;
+  height: 38%;
+  z-index: 0;
+}
+
+#absolute-3 {
+  position: absolute;
+  top: 16%;
+  left: 16%;
+  width: 38%;
+  height: 38%;
+  z-index: 3;
+}
+
+#absolute-4 {
+  position: absolute;
+  top: 46%;
+  left: 46%;
+  width: 38%;
+  height: 38%;
+  z-index: 2;
+}
+
+#absolute-5 {
+  position: absolute;
+  top: 54%;
+  left: 54%;
+  width: 38%;
+  height: 38%;
+  z-index: 1;
+}
