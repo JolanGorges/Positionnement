@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  border-radius: 15px;
+  padding: 20%;
+}
+
+nav {
+  position: fixed;
+  padding-left: 2%;
+}
+
+main {
+  padding: 3% 3% 50% 11%;
+}
+
+footer {
+  padding: 20px 0;
+  background: black;
+  color: white;
+  text-align: center;
+}
